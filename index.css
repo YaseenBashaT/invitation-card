@@ -31,7 +31,8 @@ h1, h3{
 
 }
 h4{
-    padding:auto 30px;
+    padding-left:30px;
+    right:30px;
 }
 
 .times{
