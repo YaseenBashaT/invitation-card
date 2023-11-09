@@ -1,0 +1,42 @@
+body{
+    margin-top: 45px;
+    text-align: center;
+    background-image: url('./assets/card-back.jpg');
+    color: rgb(194, 164, 57);
+    font-family: 'italianno';
+    letter-spacing: 1px;
+}
+
+.join{
+    font-size: 30px;
+    margin-top: -30px;
+}
+.divider{
+    font-size: 80;
+}
+
+/* .back-img{
+    width: 100%;
+    margin: -50px;
+} */
+
+@font-face {
+    font-family: 'italianno';
+    src: url(./assets/italianno.ttf);
+}
+h1, h3{
+
+    font-size: 55px;
+    /* margin-top: 1px; */
+    font-weight: 300px;
+}
+.frs-logo{
+    margin-left: 40px;
+    margin-top: -30px;
+
+}
+.times{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
