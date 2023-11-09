@@ -32,6 +32,6 @@ h1, h3{
 }
 .times{
     display: flex;
-    justify-content: space-evenly;
+    justify-content:center;
     text-align: center;
 }
