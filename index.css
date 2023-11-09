@@ -15,10 +15,6 @@ body{
     font-size: 80;
 }
 
-/* .back-img{
-    width: 100%;
-    margin: -50px;
-} */
 
 @font-face {
     font-family: 'italianno';
@@ -27,7 +23,6 @@ body{
 h1, h3{
 
     font-size: 55px;
-    /* margin-top: 1px; */
     font-weight: 300px;
 }
 .frs-logo{
