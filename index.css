@@ -32,7 +32,12 @@ h1, h3{
 
 }
 img{
-    box-shadow: 10px 10px 16px black;
+    position:realtive;
+    text-shadow: orange 10px 0px 30px, orange -10px 0px 30px, orange 0px 10px 30px, orange 0px -10px 30px;
+    color: black;
+    background: black;
+    mix-blend-mode: screen;
+
 }
 h4{
     padding-left:30px;
