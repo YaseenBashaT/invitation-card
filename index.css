@@ -31,6 +31,9 @@ h1, h3{
     margin-top: -30px;
 
 }
+img{
+    box-shadow: 10px 10px 16px lightblue;
+}
 h4{
     padding-left:30px;
     padding-right:30px;
