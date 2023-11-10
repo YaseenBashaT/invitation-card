@@ -34,6 +34,8 @@ h4{
     padding-left:30px;
     padding-right:30px;
 }
+P{
+    font-size:bold;
 
 .times{
     display: flex;
