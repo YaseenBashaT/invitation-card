@@ -3,7 +3,7 @@ body{
     text-align: center;
     background-image: url('./assets/card-back.jpg');
     color: rgb(194, 164, 57);
-    font-family: 'italianno';
+    font-family: 'satisfy.regular';
     letter-spacing: 1px;
 }
 
@@ -17,8 +17,8 @@ body{
 
 
 @font-face {
-    font-family: 'italianno';
-    src: url(./assets/italianno.ttf);
+    font-family: 'satisfy.regular';
+    src: url(./assets/satisfy.regular.ttf);
 }
 h1, h3{
 
