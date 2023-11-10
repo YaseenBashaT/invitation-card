@@ -34,8 +34,8 @@ h1, h3{
 img{
     position:realtive;
     text-shadow: orange 10px 0px 30px, orange -10px 0px 30px, orange 0px 10px 30px, orange 0px -10px 30px;
-    color: black;
-    background: black;
+    color: white;
+    background: white;
     mix-blend-mode: screen;
 
 }
