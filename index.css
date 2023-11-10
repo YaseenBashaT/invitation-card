@@ -31,14 +31,7 @@ h1, h3{
     margin-top: -30px;
 
 }
-img{
-    position:realtive;
-    text-shadow: orange 10px 0px 30px, orange -10px 0px 30px, orange 0px 10px 30px, orange 0px -10px 30px;
-    color: white;
-    background: white;
-    mix-blend-mode: screen;
 
-}
 h4{
     padding-left:30px;
     padding-right:30px;
