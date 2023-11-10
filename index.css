@@ -5,6 +5,7 @@ body{
     color: rgb(194, 164, 57);
     font-family: 'satisfy.regular';
     letter-spacing: 1px;
+    text-shadow: 2px 2px 4px #000000;
 }
 
 .join{
